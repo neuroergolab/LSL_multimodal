@@ -23,13 +23,13 @@ author: [@nimrobotics](https://twitter.com/nimrobotics)
     * Alter the parameters in the example progam if needed.
 2. Open Aurora on Windows and connect with the fNIRS device.
 3. On the configuration page, select the desired probmap and click `Edit` as shown in the image below.
-    ![](https://raw.githubusercontent.com/neuroergotamu/LSL_integration/main/2.png)
+    ![](https://raw.githubusercontent.com/neuroergotamu/LSL_integration/blob/master/images/2.png?raw=true)
 4. In the `Basic parameters` tab, add triggers (ideally, the same number as defined in the `streamer.py` program).
-![](https://raw.githubusercontent.com/neuroergotamu/LSL_integration/main/3.png)
+![](https://raw.githubusercontent.com/neuroergotamu/LSL_integration/blob/master/images/3.png?raw=true)
 5. Verify that the `Data out stream name` and `Data in stream name` same as defined in the `streamer.py` program.
-    ![](https://raw.githubusercontent.com/neuroergotamu/LSL_integration/main/4.png)
+    ![](https://raw.githubusercontent.com/neuroergotamu/LSL_integration/blob/master/images/4.png?raw=true)
 6. Now you should be able to see the data with triggers in the Aurora console.
-    ![](https://raw.githubusercontent.com/neuroergotamu/LSL_integration/main/5.png)
+    ![](https://raw.githubusercontent.com/neuroergotamu/LSL_integration/blob/master/images/5.png?raw=true)
 7. The trigger input may be automated to your needs.
 
 
