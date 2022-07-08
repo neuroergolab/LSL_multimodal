@@ -12,6 +12,7 @@ author: [@nimrobotics](https://twitter.com/nimrobotics)
 * Install the core LSL library
     * Download the latest version (*.deb) from GitHub [LSL library](https://github.com/sccn/liblsl) from the releases page.
     * Switch to the directory where the *.deb is located.
+    * Change permissions to `chmod +x *.deb`
     * Install the *.deb `sudo dpkg -i liblsl-bin_*.deb`
 * Install the python binding [pylsl](https://github.com/labstreaminglayer/liblsl-Python)
     * `pip3 install pylsl`
