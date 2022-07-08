@@ -23,7 +23,8 @@ author: [@nimrobotics](https://twitter.com/nimrobotics)
     * Alter the parameters in the example progam if needed.
 2. Open Aurora on Windows and connect with the fNIRS device.
 3. On the configuration page, select the desired probmap and click `Edit` as shown in the image below.
-    ![](../blob/main/images/2.png?raw=true)
+    ![Image](../blob/main/images/2.PNG?raw=true)
+    ![Image](../blob/master/myimage.png?raw=true)
 4. In the `Basic parameters` tab, add triggers (ideally, the same number as defined in the `streamer.py` program).
     ![](../blob/main/images/3.png?raw=true)
 5. Verify that the `Data out stream name` and `Data in stream name` same as defined in the `streamer.py` program.
