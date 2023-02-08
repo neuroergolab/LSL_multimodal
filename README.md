@@ -19,6 +19,8 @@ author: [@nimrobotics](https://twitter.com/nimrobotics)
 
 # Usage
 
+> In order to be able to work with different computers over network, please make sure all apps (python, Aurora fNIRS, EEG, ...) are allowed through Windows Defender Firewall. More info: https://pureinfotech.com/allow-apps-firewall-windows-10/
+
 1. Run the following command to start the streamer:
     * `python3 streamer.py`
     * Alter the parameters in the example progam if needed.
