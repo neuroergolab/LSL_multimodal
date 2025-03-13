@@ -1,0 +1,5 @@
+EMG and Force Plate: EMG_streaming_LUNA Is the specific MATLAB script that needs to be run to properly stream the data from the Noraxon software to LSL. The only thing that needs to be changed in this MATAB file is the file paths at the top of the file. These file paths just need to be changed to the correct file path in the computer running the program. The Noraxon software is also compatible with the AMTI force plate. Once you begin measuring the Noraxon software run the MATLAB script and you should the stream in the LabRecorder.
+
+Tobii Glasses: Upon downloading and unzipping G3LSLConnector_1.2.0.0 (2).zip, open the G3LSLConnector.exe application. With the tobii software open and the glasses paired. The LabRecorder will detect the glasses once the start button is placed in the connector application. Hit the inspect button if this doesn't happen right away.
+
+Xsens: Upon downloading and unzipping xsens-lsl_1.0.0 (1).zip, open the streaming_protocol.exe application. With the Xsens sensors connected through the native Xsens software, you should then see, in the LabRecorder, streams from the Xsens software
